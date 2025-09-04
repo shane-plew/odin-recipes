@@ -6,4 +6,4 @@ Skills Demonstrated:\
     -Creation of basic HTML webpages and website using links\
     -Managing repository through git and GitHub\
     -Basic website folder and file organization\
-    -Format of commit messages\
+    -Format of commit messages
