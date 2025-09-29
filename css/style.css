@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(44, 41, 48);
+    height: 100%;
+    text-align: center;
+}
+
+p{
+    width: 20%;
+    margin: auto auto 1vh;
+}
+
+img{
+    margin-bottom: 1vh;
+}
+
+h1{
+    color: rgb(114, 133, 128);
+    width: 10%;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    margin: auto;
+    margin-bottom: 1vh;
+}
+
+h2{
+    color: rgb(65, 65, 65);
+    width: 10%;
+    border-bottom: 1px dotted rgb(0, 0, 0);
+    margin: auto;
+    margin-bottom: 1vh;
+}
+
+ul{
+    width: 20%;
+    margin: auto;
+    padding: 0vh;
+}
+
+ol{
+    width: 20%;
+    margin: auto;
+    padding: 0vh;
+}
+
+li{
+    list-style: none;
+    font-size: 18px;
+    margin: 1vh auto;
+}
+
+.box{
+    display: block;
+    width: 25%;
+    height: 80vmax;
+    background-color: antiquewhite;
+    margin-bottom: -100vmax;
+    margin-top: 10vh;
+    margin-left: 37.5%;
+    position: static;
+}
+
+.empty-space{
+    display: block;
+    height: 50vh;
+}
+
+a{
+    margin-bottom: 1vh;
+}
+
+a:link{
+    color: rgb(138, 107, 5);
+}
+
+a:visited{
+    color: rgb(44, 30, 77);
+}
